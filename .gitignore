@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environments
+.env
+.venv/
+venv/
+
+# Build
+dist/
+*.egg-info/
+
+# Test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# DB files
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Tool caches
+.fastembed_cache/
