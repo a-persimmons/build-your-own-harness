@@ -1,0 +1,11 @@
+{
+  "ARCHITECTURE.md": "49e67bfcfef31af6bc0754258b3e0ecc7afde8c171a70acca0e84c12dbd51283",
+  "CLAUDE.md": "95c25ce32dbd2bb9c5ba2ae4fc065562a64e6be0a08b76bef0a93298f95d6424",
+  "README.md": "3f88a3258e5109b58d2dffe10179c5f06c017a42c10b3dd9f4179043652d0da9",
+  "SPEC.md": "5decd4477fe6c87e3cc11ea783a593c11a6f4288a071fbc1c63ba34831ff2d11",
+  "build-your-own-harness.md": "5a343b03b05b01a9558fec34f2eadfedfa778be709013e4756dfed624c693877",
+  "layer-01-api-shell/README.md": "ed1bbdb6f76b31f9b1a731f99c03518447f4d383ac6de167c2d515f8e0427ac3",
+  "layer-02-tools/README.md": "6139aa532ec4860d3f4ca3e4dabe73229f5e6074dab793273ef41e74e470059c",
+  "layer-03-context/README.md": "e79d0f6eafc13ec7a1fb919335779fbf6be22d9453d48ea10f4bf50049ebbbe9",
+  "layer-04-memory/README.md": "fcf32ae426f7eb28906315f480fd4325e2f1f80627020462ef71d4d79c151cc6"
+}

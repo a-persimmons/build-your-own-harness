@@ -33,3 +33,9 @@ Thumbs.db
 
 # Tool caches
 .fastembed_cache/
+
+# Reading site
+node_modules/
+.book-docs/
+.vitepress/cache/
+.vitepress/dist/
